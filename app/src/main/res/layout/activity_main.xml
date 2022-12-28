@@ -43,4 +43,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.808" />
+
+    <Button
+        android:id="@+id/refreshDataBtn"
+        android:layout_width="412dp"
+        android:layout_height="235dp"
+        android:background="#00FFFFFF"
+        android:text="Refresh Data"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/floorcard" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
