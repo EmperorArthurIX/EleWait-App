@@ -40,5 +40,5 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-database'
     // For Charts:
-    implementation 'com.github.AnyChart:AnyChart-Android:0.0.3'
+//    implementation 'com.github.AnyChart:AnyChart-Android:0.0.3'
 }
